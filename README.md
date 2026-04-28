@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> قلبي ينادي في سكون الليل
+> نارك في روحي ولا أجد الدليل
+> شوقي إليك يفيض كالسيل
+> دعنا نذوب في هذا الجميل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
