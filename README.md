@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/qol-w-eftah/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Music Rights & Licensing for Qol W Eftah](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get License For Qol W Eftah](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
